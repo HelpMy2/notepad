@@ -1,0 +1,10 @@
+{"reset":false,
+    "font":["consolas",
+    10,
+    "normal"],
+    "bg":"black",
+    "fg":"#ffffff",
+    "bd":2.5,
+    "image":"image.png",
+    "geometry":"350x500+438+164",
+    "find_color":"#ff0000"}
